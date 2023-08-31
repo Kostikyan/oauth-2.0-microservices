@@ -1,0 +1,6 @@
+/Users/mno/microservice-project/oauth-2.0-microservices/resource-server/src/main/java/com/itspace/ws/api/resourceserver/endpoint/UserEndpoint.java
+/Users/mno/microservice-project/oauth-2.0-microservices/resource-server/src/main/java/com/itspace/ws/api/resourceserver/entity/UserRest.java
+/Users/mno/microservice-project/oauth-2.0-microservices/resource-server/src/main/java/com/itspace/ws/api/resourceserver/security/KeycloakRoleConverter.java
+/Users/mno/microservice-project/oauth-2.0-microservices/resource-server/src/main/java/com/itspace/ws/api/resourceserver/endpoint/TokenEndpoint.java
+/Users/mno/microservice-project/oauth-2.0-microservices/resource-server/src/main/java/com/itspace/ws/api/resourceserver/security/WebSecurity.java
+/Users/mno/microservice-project/oauth-2.0-microservices/resource-server/src/main/java/com/itspace/ws/api/resourceserver/ResourceServerApplication.java

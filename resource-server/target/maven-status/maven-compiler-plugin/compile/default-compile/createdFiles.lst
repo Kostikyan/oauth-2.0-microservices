@@ -1,0 +1,6 @@
+com/itspace/ws/api/resourceserver/endpoint/TokenEndpoint.class
+com/itspace/ws/api/resourceserver/ResourceServerApplication.class
+com/itspace/ws/api/resourceserver/security/WebSecurity.class
+com/itspace/ws/api/resourceserver/endpoint/UserEndpoint.class
+com/itspace/ws/api/resourceserver/entity/UserRest.class
+com/itspace/ws/api/resourceserver/security/KeycloakRoleConverter.class
